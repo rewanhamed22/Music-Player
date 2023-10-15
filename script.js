@@ -40,7 +40,7 @@ const setMusic = (i) => {
     duration.innerHTML = formatTime(music.duration);
   }, 300);
 };
-setMusic(1);
+setMusic(0);
 const formatTime = (time) => {
   let min = Math.floor(time / 60);
   if (min < 10) {
