@@ -1,5 +1,12 @@
 let songs = [
   {
+    name: "Ma Fi Menk",
+    path: "./musics/Aziz Maraka - Mafi Mennik (Official LIVE Music Video) - عزيز - مافي منك - الفيديو الرسمي.mp3",
+    artist: "Aziz Maraka",
+    cover:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQugKnBV6ihAU4UAgtn2W5UKHZwdVTfecXSDJl0W4ZfQ&s",
+  },
+  {
     name: "Mesh Shayfenhom",
     path: "./musics/Hassan El Shafie ft. Pousi & Double Zuksh - Mesh Shayfenhom (Coke Studio Egypt 2023).mp3",
     artist: "Bosy",
