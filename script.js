@@ -37,7 +37,6 @@ const setMusic = (i) => {
   currentTime.innerHTML = "00:00";
   setTimeout(() => {
     bar.max = music.duration;
-    console.log(music.duration);
     duration.innerHTML = formatTime(music.duration);
   }, 300);
 };
